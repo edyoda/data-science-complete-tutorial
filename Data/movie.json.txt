@@ -1,0 +1,123 @@
+{
+
+    "David Smith": 
+
+    {
+
+        "Vertigo": 4,
+
+        "Scarface": 4.5,
+
+        "Raging Bull": 3.0,
+
+        "Goodfellas": 4.5,
+
+        "The Apartment": 1.0
+
+    },
+
+    "Brenda Peterson": 
+
+    {
+
+        "Vertigo": 3.0,
+
+        "Scarface": 1.5,
+
+        "Raging Bull": 1.0,
+
+        "Goodfellas": 2.0,
+
+        "The Apartment": 5.0,
+
+        "Roman Holiday": 4.5 
+
+    },
+
+    "Bill Duffy": 
+
+    {
+
+        "Vertigo": 4.5,
+
+        "Scarface": 5.0,
+
+        "Goodfellas": 4.5,
+
+        "The Apartment": 1.0
+
+    },
+
+    "Samuel Miller": 
+
+    {
+
+        "Scarface": 3.5,
+
+        "Raging Bull": 5.0,
+
+        "The Apartment": 1.0,
+
+        "Goodfellas": 5.0,
+
+        "Roman Holiday": 1.0 
+
+    },
+
+    "Julie Hammel": 
+
+    {
+
+       "Scarface": 2.5,
+
+       "Roman Holiday": 4.5,
+
+       "Goodfellas": 3.0
+
+    },
+
+    "Clarissa Jackson": 
+
+    {
+
+        "Vertigo": 5.0,
+
+        "Scarface": 4.5,
+
+        "Raging Bull": 4.0,
+
+        "Goodfellas": 2.5,
+
+        "The Apartment": 1.0,
+
+        "Roman Holiday": 1.5
+
+    },
+
+    "Adam Cohen": 
+
+    {
+
+       "Vertigo": 3.5,
+
+       "Scarface": 3.0,
+
+       "The Apartment": 1.0,
+
+       "Goodfellas": 4.5,
+
+       "Roman Holiday": 3.0
+
+    },
+
+    "Chris Duncan": 
+
+    {
+
+       "The Apartment": 1.5,
+
+       "Raging Bull": 4.5
+
+    }
+
+}
