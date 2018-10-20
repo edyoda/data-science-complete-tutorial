@@ -9,7 +9,7 @@
 **Lesson 7 :** [Naive Bayes](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/7.%20Naive%20Bayes.ipynb)  
 **Lesson 8 :** [Feature Unions](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/8.%20Composite%20Estimators%20using%20Pipelines%20%26%20FeatureUnions.ipynb)  
 **Lesson 9 :** [Model Selection and Evaluation](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/9.%20Model%20Selection%20%26%20Evaluation.ipynb)  
-**Lesson 10 :** [Feature Selection Techniques](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/10.%20Feature%20Selection%20Techniques.ipynb) 
+**Lesson 10 :** [Feature Selection Techniques](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/10.%20Feature%20Selection%20Techniques.ipynb)
 **Lesson 11 :** [Nearest Neighbors](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/11.%20Nearest%20Neighbors.ipynb) 
 
 
