@@ -9,7 +9,9 @@
 **Lesson 7 :** [Naive Bayes](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/7.%20Naive%20Bayes.ipynb)  
 **Lesson 8 :** [Feature Unions](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/8.%20Composite%20Estimators%20using%20Pipelines%20%26%20FeatureUnions.ipynb)  
 **Lesson 9 :** [Model Selection and Evaluation](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/9.%20Model%20Selection%20%26%20Evaluation.ipynb)  
-**Lesson 10 :** [Feature Selection Techniques](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/10.%20Feature%20Selection%20Techniques.ipynb)  
+**Lesson 10 :** [Feature Selection Techniques](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/10.%20Feature%20Selection%20Techniques.ipynb) 
+**Lesson 11 :** [Nearest Neighbors](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/11.%20Nearest%20Neighbors.ipynb) 
+
 
 ## Case Study of Classic ML Problems
 **Case 1 :** [Linear Regression](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/LR%20Example.ipynb)  
@@ -18,6 +20,7 @@
 **Case 4 :** [Customer Churn Prediction](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/Project%20-%20Customer%20Churn%20Prediction.ipynb)  
 **Case 5 :** [Income Prediction](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/Project%20-%20Income%20Prediction.ipynb)  
 **Case 6 :** [Predicting Employee Exit](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/Project%20-%20Predicting%20Employee%20Exit.ipynb)  
+**Case 7 :** [Face Generation](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/Project%20-%20Face%20Generation.ipynb)  
 
 ## The Free courses available on EdYoda
 
