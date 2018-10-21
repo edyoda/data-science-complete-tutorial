@@ -21,6 +21,7 @@
 **Case 5 :** [Income Prediction](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/Project%20-%20Income%20Prediction.ipynb)  
 **Case 6 :** [Predicting Employee Exit](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/Project%20-%20Predicting%20Employee%20Exit.ipynb)  
 **Case 7 :** [Face Generation](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/Project%20-%20Face%20Generation.ipynb)  
+**Case 8 :** [Finding Similar Houses](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/Project%20-%20Finding%20Similar%20Houses.ipynb)  
 
 ## The Free courses available on EdYoda
 
