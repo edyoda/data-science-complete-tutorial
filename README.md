@@ -11,7 +11,9 @@
 **Lesson 9 :** [Model Selection and Evaluation](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/9.%20Model%20Selection%20%26%20Evaluation.ipynb)  
 **Lesson 10 :** [Feature Selection Techniques](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/10.%20Feature%20Selection%20Techniques.ipynb)  
 **Lesson 11 :** [Nearest Neighbors](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/11.%20Nearest%20Neighbors.ipynb)  
-**Lesson 12 :** [Clustering Techniques](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/12.%20Clustering%20Techniques.ipynb)
+**Lesson 12 :** [Clustering Techniques](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/12.%20Clustering%20Techniques.ipynb)  
+**Lesson 13 :** [Anomaly Detection](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/13.%20Anomaly%20Detection.ipynb)
+
 
 
 
