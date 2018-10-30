@@ -1,13 +1,13 @@
 # Machine Learning Git Codebook
 
 **Lesson 1 :** [Introduction to Numpy](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/1.%20NumPy.ipynb) [(Video)](https://www.edyoda.com/resources/videolisting/1263/)  
-**Lesson 2 :** [Introduction to Pandas](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/2.%20Pandas%20for%20Machine%20Learning.ipynb)  
+**Lesson 2 :** [Data Wrangling using Pandas](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/2.%20Pandas%20for%20Machine%20Learning.ipynb)  
 **Lesson 3 :** [Plotting in Python](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/3.%20Plotting.ipynb)  
-**Lesson 4 :** [Regression Models](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/4.%20Linear%20Models%20for%20Classification%20%26%20Regression.ipynb)  
+**Lesson 4 :** [Linear Models for Regression & Classification](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/4.%20Linear%20Models%20for%20Classification%20%26%20Regression.ipynb)  
 **Lesson 5 :** [Preprocessing Data](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/5.%20PreProcessing.ipynb)  
 **Lesson 6 :** [Decision Trees](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/6.%20Decision%20Tree.ipynb)  
 **Lesson 7 :** [Naive Bayes](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/7.%20Naive%20Bayes.ipynb)  
-**Lesson 8 :** [Feature Unions](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/8.%20Composite%20Estimators%20using%20Pipelines%20%26%20FeatureUnions.ipynb)  
+**Lesson 8 :** [Composite Estimators](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/8.%20Composite%20Estimators%20using%20Pipelines%20%26%20FeatureUnions.ipynb)  
 **Lesson 9 :** [Model Selection and Evaluation](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/9.%20Model%20Selection%20%26%20Evaluation.ipynb)  
 **Lesson 10 :** [Feature Selection Techniques](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/10.%20Feature%20Selection%20Techniques.ipynb)  
 **Lesson 11 :** [Nearest Neighbors](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/11.%20Nearest%20Neighbors.ipynb)  
