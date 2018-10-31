@@ -15,6 +15,7 @@
 **Lesson 13 :** [Anomaly Detection](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/13.%20Anomaly%20Detection.ipynb)  
 **Lesson 14 :** [Support Vector Machines](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/14.%20Support%20Vector%20Machines.ipynb)  
 **Lesson 15 :** [Dealing with Imbalanced Classes](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/15.%20Dealing%20with%20Imbalanced%20Classes.ipynb)  
+**Lesson 16 :** [Ensemble Methods](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/16.%20Ensemble%20Methods.ipynb)  
 
 
 ## Case Study of Classic ML Problems
