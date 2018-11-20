@@ -1,3 +1,5 @@
+In person training - http://zekelabs.com/courses/data-science-training-in-bangalore/
+
 # Machine Learning Git Codebook
 
 **Lesson 1 :** [Introduction to Numpy](https://github.com/zekelabs/data-science-complete-tutorial/blob/master/1.%20NumPy.ipynb) [(Video)](https://www.edyoda.com/resources/videolisting/1263/)  
