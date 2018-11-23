@@ -1,0 +1,15 @@
+outlook,temp,humidity,windy,time
+sunny,hot,high,false,26
+sunny,hot,high,true,30
+overcast,hot,high,false,48
+rainy,mild,high,false,46
+rainy,cool,normal,false,62
+rainy,cool,normal,true,23
+overcast,cool,normal,true,43
+sunny,mild,high,false,36
+sunny,cool,normal,false,38
+rainy,mild,normal,false,48
+sunny,mild,normal,true,48
+overcast,mild,high,true,62
+overcast,hot,normal,false,44
+rainy,mild,high,true,30
