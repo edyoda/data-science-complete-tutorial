@@ -1,0 +1,17 @@
+<users>
+    <user>
+        <id>123</id>
+        <name>Shubham</name>
+        <salary>0</salary>
+    </user>
+    <user>
+        <id>234</id>
+        <name>Pankaj</name>
+        <salary>0</salary>
+    </user>
+    <user>
+        <id>345</id>
+        <name>JournalDev</name>
+        <salary>0</salary>
+    </user>
+</users>

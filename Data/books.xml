@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<books>
+  <book>
+    <title>The Cat in the Hat</title>
+    <author>Dr. Seuss</author>
+    <price>6.99</price>
+  </book>
+  <book>
+    <title>Ender's Game</title>
+    <author>Orson Scott Card</author>
+    <price>8.99</price>
+  </book>
+  <book>
+    <title>Prey</title>
+    <author>Michael Crichton</author>
+    <price>9.35</price>
+  </book>
+</books>
