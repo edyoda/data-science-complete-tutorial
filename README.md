@@ -1,4 +1,4 @@
-In person training - http://zekelabs.com/courses/data-science-training-in-bangalore/
+In person training - https://www.edyoda.com/program/data-scientist-program
 
 # Machine Learning Git Codebook
 
