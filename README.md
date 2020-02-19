@@ -36,7 +36,7 @@ In person training - https://www.edyoda.com/program/data-scientist-program
 **Angular** - https://www.edyoda.com/course/1227  
 **Machine Learning** - https://www.edyoda.com/course/1416  
 **Dog Breed Prediction Project** - https://www.edyoda.com/course/1336  
-**Dog Breed Prediction Project** - https://www.edyoda.com/course/1185  
+**AI Project - Web application for Object Identification** - https://www.edyoda.com/course/1185  
 **Numpy** - https://www.edyoda.com/course/1263 
 **Tensorflow** - https://www.edyoda.com/course/99  
 **Amazon Web Services** - https://www.edyoda.com/course/1410  
